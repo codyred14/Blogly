@@ -1,0 +1,12 @@
+.navbar-brand {
+  padding-left: 10px;
+}
+
+.btn-sm {
+  margin: 2px;
+}
+
+.badge {
+  color: black;
+  text-decoration: underline;
+}
